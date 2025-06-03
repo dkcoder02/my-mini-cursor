@@ -1,0 +1,3 @@
+1: Create a Todo app with a separate frontend folder, including add, edit, and delete functionalities.
+2: Now remove only the edit functionality; all other functionality code (add and delete) must remain unchanged.
+3: Add back the edit functionality without removing or modifying the existing add and delete functionalities.
